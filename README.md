@@ -82,7 +82,7 @@
 </tr>
 <tr>
   <td><b>Infrastructure &amp; Ops</b></td>
-  <td>Docker · Docker Compose · Caddy · Cloudflare Workers / Wrangler · Linux · Windows Services · PowerShell · monitoring และ alerting ที่เขียนเอง</td>
+  <td>Docker · Docker Compose · Caddy · Cloudflare Workers / Wrangler / GCP / Azure / AWS / On-Prem · Linux · Windows Services · PowerShell · monitoring และ alerting ที่เขียนเอง</td>
 </tr>
 <tr>
   <td><b>Integration &amp; อื่น ๆ</b></td>
