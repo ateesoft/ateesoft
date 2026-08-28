@@ -40,7 +40,7 @@
 <tr><td><b>📡 ISP &amp; Telecom</b></td><td>ระบบผู้ให้บริการอินเทอร์เน็ต — สมัครใช้บริการออนไลน์, ใบแจ้งหนี้/statement, ระบบ WiFi, mobile app สำหรับลูกค้า</td></tr>
 <tr><td><b>🏭 Industrial &amp; SCADA</b></td><td>เชื่อมข้อมูลจากสายการผลิต ทำรายงานอัตโนมัติให้โรงงาน</td></tr>
 <tr><td><b>📦 ERP &amp; Inventory</b></td><td>ระบบบริหารสต็อกและงานหลังบ้านสำหรับธุรกิจ</td></tr>
-<tr><td><b>🏥 Enterprise Integration</b></td><td>เชื่อมระบบองค์กรขนาดใหญ่เข้าด้วยกันผ่าน API gateway บน edge platform</td></tr>
+<tr><td><b>🏥 Enterprise Integration</b></td><td>เชื่อมระบบองค์กรขนาดใหญ่เข้าด้วยกันผ่าน API gateway บน edge platform, เชื่อมต่อ SAP B1 ชิวๆ</td></tr>
 </table>
 
 <sub>ℹ️ งานส่วนใหญ่เป็นระบบของลูกค้าและอยู่ใน private repository — ยินดีเล่ารายละเอียดและพาดูของจริงเป็นราย ๆ ไปครับ<br>
