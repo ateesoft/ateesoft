@@ -133,8 +133,8 @@
 
 <p>
   <a href="mailto:thanapontee@gmail.com"><img src="https://img.shields.io/badge/Email-thanapontee%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <!-- มีลิงก์เมื่อไหร่ ใส่ URL แทน # แล้วเอา comment ออก 2 บรรทัดข้างล่างนี้
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ateesoft/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <!-- มีเว็บบริษัทเมื่อไหร่ ใส่ URL แทน # แล้วเอา comment ออก
   <a href="#"><img src="https://img.shields.io/badge/Website-Visit-0B3D2E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   -->
 </p>
